@@ -1,0 +1,16 @@
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio1\bin\Debug\net5.0\desafio1.exe
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio1\bin\Debug\net5.0\desafio1.deps.json
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio1\bin\Debug\net5.0\desafio1.runtimeconfig.json
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio1\bin\Debug\net5.0\desafio1.runtimeconfig.dev.json
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio1\bin\Debug\net5.0\desafio1.dll
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio1\bin\Debug\net5.0\ref\desafio1.dll
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio1\bin\Debug\net5.0\desafio1.pdb
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio1\obj\Debug\net5.0\desafio1.csproj.AssemblyReference.cache
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio1\obj\Debug\net5.0\desafio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio1\obj\Debug\net5.0\desafio1.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio1\obj\Debug\net5.0\desafio1.AssemblyInfo.cs
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio1\obj\Debug\net5.0\desafio1.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio1\obj\Debug\net5.0\desafio1.dll
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio1\obj\Debug\net5.0\ref\desafio1.dll
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio1\obj\Debug\net5.0\desafio1.pdb
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio1\obj\Debug\net5.0\desafio1.genruntimeconfig.cache

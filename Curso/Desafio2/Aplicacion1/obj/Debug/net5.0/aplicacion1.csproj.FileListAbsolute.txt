@@ -1,0 +1,16 @@
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio2\aplicacion1\obj\Debug\net5.0\aplicacion1.csproj.AssemblyReference.cache
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio2\aplicacion1\obj\Debug\net5.0\aplicacion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio2\aplicacion1\obj\Debug\net5.0\aplicacion1.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio2\aplicacion1\obj\Debug\net5.0\aplicacion1.AssemblyInfo.cs
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio2\aplicacion1\obj\Debug\net5.0\aplicacion1.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio2\aplicacion1\bin\Debug\net5.0\aplicacion1.exe
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio2\aplicacion1\bin\Debug\net5.0\aplicacion1.deps.json
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio2\aplicacion1\bin\Debug\net5.0\aplicacion1.runtimeconfig.json
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio2\aplicacion1\bin\Debug\net5.0\aplicacion1.runtimeconfig.dev.json
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio2\aplicacion1\bin\Debug\net5.0\aplicacion1.dll
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio2\aplicacion1\bin\Debug\net5.0\ref\aplicacion1.dll
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio2\aplicacion1\bin\Debug\net5.0\aplicacion1.pdb
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio2\aplicacion1\obj\Debug\net5.0\aplicacion1.dll
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio2\aplicacion1\obj\Debug\net5.0\ref\aplicacion1.dll
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio2\aplicacion1\obj\Debug\net5.0\aplicacion1.pdb
+C:\Users\EQUIPO\Documents\Yeferson\Curso\desafio2\aplicacion1\obj\Debug\net5.0\aplicacion1.genruntimeconfig.cache
