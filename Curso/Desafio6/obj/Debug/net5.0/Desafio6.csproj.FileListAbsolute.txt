@@ -1,0 +1,16 @@
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio6\bin\Debug\net5.0\Desafio6.exe
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio6\bin\Debug\net5.0\Desafio6.deps.json
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio6\bin\Debug\net5.0\Desafio6.runtimeconfig.json
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio6\bin\Debug\net5.0\Desafio6.runtimeconfig.dev.json
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio6\bin\Debug\net5.0\Desafio6.dll
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio6\bin\Debug\net5.0\ref\Desafio6.dll
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio6\bin\Debug\net5.0\Desafio6.pdb
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio6\obj\Debug\net5.0\Desafio6.csproj.AssemblyReference.cache
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio6\obj\Debug\net5.0\Desafio6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio6\obj\Debug\net5.0\Desafio6.AssemblyInfoInputs.cache
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio6\obj\Debug\net5.0\Desafio6.AssemblyInfo.cs
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio6\obj\Debug\net5.0\Desafio6.csproj.CoreCompileInputs.cache
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio6\obj\Debug\net5.0\Desafio6.dll
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio6\obj\Debug\net5.0\ref\Desafio6.dll
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio6\obj\Debug\net5.0\Desafio6.pdb
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio6\obj\Debug\net5.0\Desafio6.genruntimeconfig.cache
