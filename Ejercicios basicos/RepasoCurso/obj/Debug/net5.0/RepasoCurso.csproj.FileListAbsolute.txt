@@ -1,0 +1,16 @@
+D:\Proyectos\Personales\DesafiosCurso\Curso\RepasoCurso\obj\Debug\net5.0\RepasoCurso.csproj.AssemblyReference.cache
+D:\Proyectos\Personales\DesafiosCurso\Curso\RepasoCurso\obj\Debug\net5.0\RepasoCurso.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Personales\DesafiosCurso\Curso\RepasoCurso\obj\Debug\net5.0\RepasoCurso.AssemblyInfoInputs.cache
+D:\Proyectos\Personales\DesafiosCurso\Curso\RepasoCurso\obj\Debug\net5.0\RepasoCurso.AssemblyInfo.cs
+D:\Proyectos\Personales\DesafiosCurso\Curso\RepasoCurso\obj\Debug\net5.0\RepasoCurso.csproj.CoreCompileInputs.cache
+D:\Proyectos\Personales\DesafiosCurso\Curso\RepasoCurso\bin\Debug\net5.0\RepasoCurso.exe
+D:\Proyectos\Personales\DesafiosCurso\Curso\RepasoCurso\bin\Debug\net5.0\RepasoCurso.deps.json
+D:\Proyectos\Personales\DesafiosCurso\Curso\RepasoCurso\bin\Debug\net5.0\RepasoCurso.runtimeconfig.json
+D:\Proyectos\Personales\DesafiosCurso\Curso\RepasoCurso\bin\Debug\net5.0\RepasoCurso.runtimeconfig.dev.json
+D:\Proyectos\Personales\DesafiosCurso\Curso\RepasoCurso\bin\Debug\net5.0\RepasoCurso.dll
+D:\Proyectos\Personales\DesafiosCurso\Curso\RepasoCurso\bin\Debug\net5.0\ref\RepasoCurso.dll
+D:\Proyectos\Personales\DesafiosCurso\Curso\RepasoCurso\bin\Debug\net5.0\RepasoCurso.pdb
+D:\Proyectos\Personales\DesafiosCurso\Curso\RepasoCurso\obj\Debug\net5.0\RepasoCurso.dll
+D:\Proyectos\Personales\DesafiosCurso\Curso\RepasoCurso\obj\Debug\net5.0\ref\RepasoCurso.dll
+D:\Proyectos\Personales\DesafiosCurso\Curso\RepasoCurso\obj\Debug\net5.0\RepasoCurso.pdb
+D:\Proyectos\Personales\DesafiosCurso\Curso\RepasoCurso\obj\Debug\net5.0\RepasoCurso.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio8\obj\Debug\net5.0\Desafio8.csproj.AssemblyReference.cache
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio8\obj\Debug\net5.0\Desafio8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio8\obj\Debug\net5.0\Desafio8.AssemblyInfoInputs.cache
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio8\obj\Debug\net5.0\Desafio8.AssemblyInfo.cs
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio8\obj\Debug\net5.0\Desafio8.csproj.CoreCompileInputs.cache
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio8\bin\Debug\net5.0\Desafio8.exe
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio8\bin\Debug\net5.0\Desafio8.deps.json
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio8\bin\Debug\net5.0\Desafio8.runtimeconfig.json
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio8\bin\Debug\net5.0\Desafio8.runtimeconfig.dev.json
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio8\bin\Debug\net5.0\Desafio8.dll
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio8\bin\Debug\net5.0\ref\Desafio8.dll
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio8\bin\Debug\net5.0\Desafio8.pdb
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio8\obj\Debug\net5.0\Desafio8.dll
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio8\obj\Debug\net5.0\ref\Desafio8.dll
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio8\obj\Debug\net5.0\Desafio8.pdb
+D:\Proyectos\Personales\DesafiosCurso\Curso\Desafio8\obj\Debug\net5.0\Desafio8.genruntimeconfig.cache
