@@ -1,0 +1,16 @@
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio3\obj\Debug\net5.0\Desafio3.csproj.AssemblyReference.cache
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio3\obj\Debug\net5.0\Desafio3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio3\obj\Debug\net5.0\Desafio3.AssemblyInfoInputs.cache
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio3\obj\Debug\net5.0\Desafio3.AssemblyInfo.cs
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio3\obj\Debug\net5.0\Desafio3.csproj.CoreCompileInputs.cache
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio3\bin\Debug\net5.0\Desafio3.exe
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio3\bin\Debug\net5.0\Desafio3.deps.json
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio3\bin\Debug\net5.0\Desafio3.runtimeconfig.json
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio3\bin\Debug\net5.0\Desafio3.runtimeconfig.dev.json
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio3\bin\Debug\net5.0\Desafio3.dll
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio3\bin\Debug\net5.0\ref\Desafio3.dll
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio3\bin\Debug\net5.0\Desafio3.pdb
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio3\obj\Debug\net5.0\Desafio3.dll
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio3\obj\Debug\net5.0\ref\Desafio3.dll
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio3\obj\Debug\net5.0\Desafio3.pdb
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio3\obj\Debug\net5.0\Desafio3.genruntimeconfig.cache

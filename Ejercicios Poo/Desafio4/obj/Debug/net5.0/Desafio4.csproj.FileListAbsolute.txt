@@ -1,0 +1,16 @@
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio4\obj\Debug\net5.0\Desafio4.csproj.AssemblyReference.cache
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio4\obj\Debug\net5.0\Desafio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio4\obj\Debug\net5.0\Desafio4.AssemblyInfoInputs.cache
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio4\obj\Debug\net5.0\Desafio4.AssemblyInfo.cs
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio4\obj\Debug\net5.0\Desafio4.csproj.CoreCompileInputs.cache
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio4\bin\Debug\net5.0\Desafio4.exe
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio4\bin\Debug\net5.0\Desafio4.deps.json
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio4\bin\Debug\net5.0\Desafio4.runtimeconfig.json
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio4\bin\Debug\net5.0\Desafio4.runtimeconfig.dev.json
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio4\bin\Debug\net5.0\Desafio4.dll
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio4\bin\Debug\net5.0\ref\Desafio4.dll
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio4\bin\Debug\net5.0\Desafio4.pdb
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio4\obj\Debug\net5.0\Desafio4.dll
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio4\obj\Debug\net5.0\ref\Desafio4.dll
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio4\obj\Debug\net5.0\Desafio4.pdb
+D:\Proyectos\Personales\DesafiosCurso\Ejercicios Poo\Desafio4\obj\Debug\net5.0\Desafio4.genruntimeconfig.cache

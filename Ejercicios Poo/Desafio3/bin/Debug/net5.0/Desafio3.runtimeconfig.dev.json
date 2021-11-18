@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "D:\\Users\\ycorreca\\.dotnet\\store\\|arch|\\|tfm|",
+      "D:\\Users\\ycorreca\\.nuget\\packages"
+    ]
+  }
+}

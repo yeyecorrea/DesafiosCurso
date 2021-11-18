@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace RepasoCurso
 {
@@ -37,6 +39,47 @@ namespace RepasoCurso
             num[0] = new int[5];
             num[1] = new int[2];
             num[2]= new int[1];
+
+            // ArrayList
+            // los array list pueden ser de varios tipos de datos
+            ArrayList miArrayList = new ArrayList();
+            miArrayList.Add(5);
+            miArrayList.Add("texto");
+            miArrayList.Add(5.8);
+            miArrayList.Add(true);
+
+            // foma de recorrer un arraylist
+            // ya que un arraylist contiene varios tipo de datos
+            foreach (object x in miArrayList)
+            {
+                if (x is int)
+                {
+                    Console.WriteLine($"es un entero {x}");
+                }
+                if (x is string)
+                {
+                    Console.WriteLine($"es un string {x}");
+                }
+                
+            }
+
+            //Listas, las listasn son una clase entonces para poder empezar a agg obj se necesita instanciar
+            // para usar listas de un solo tipo se usa el namespace Sytem.Colletions.Gener
+
+            var numerosList = new List<int>();
+
+
+            // Diferencia entre Array, ArrayLis y List
+
+            //Array: Inmutable y limitado a 1 solo tipo de dato
+            int[]Array = new int[]{4,3,2,1};
+
+            //ArrayList: Es mutable y puede contener varios tipos de datos
+            ArrayList arrayList = new ArrayList(){4,5,3,"nombre",true};
+
+            
+
+
         }
 
         // ejemplo de cracion de un metodo destructor
