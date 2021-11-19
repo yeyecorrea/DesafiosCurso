@@ -8,17 +8,27 @@ namespace Desafio4
         protected string Titulo { get; set; }
         protected string Autor { get; set; }
         protected bool EsPublico { get; set; }
-        protected DateTime fechaCreacion { get; set;}
-        public string contenidoPost { get; set; }
+        protected DateTime FechaCreacion { get; set;}
+        protected string ContenidoPost { get; set; }
 
-        public Publicacion(string titulo = "Mi primera publicacion", string autor = "Anonimus", bool espublico = true, string contenidoPost = "...")
+        public Publicacion()
+        {
+            ID = CrearID();
+            Titulo = "Mi primera publicacion";
+            Autor = "Anonimos";
+            EsPublico = true;
+            ContenidoPost = "...";
+            FechaCreacion = DateTime.Now;
+        }
+
+        public Publicacion(string titulo, string autor, bool espublico, string contenidoPost)
         {
             this.ID = CrearID();
             this.Titulo = titulo;
             this.Autor = autor;
             this.EsPublico = espublico;
-            this.fechaCreacion = FechaCreacion();
-            this.contenidoPost = contenidoPost;
+            this.FechaCreacion = DateTime.Now;
+            this.ContenidoPost = contenidoPost;
         }
 
         // Metodo para aumentar el ID cada vez que se instancia un objeto
@@ -26,13 +36,6 @@ namespace Desafio4
         {
             return ++publicacionID;
         }
-
-        // Metodo que crea la fechas de creacion
-        protected DateTime FechaCreacion()
-        {
-           return fechaCreacion = DateTime.Now;
-        }
-
         // Metodo para editar una publicacion
         public void Editar(string titulo, bool esPublico)
         {
@@ -44,9 +47,9 @@ namespace Desafio4
         public override string ToString()
         {
             return String.Format(@$"
-            {this.ID} - {this.Titulo} 
-            {this.contenidoPost}
-            Creado por: {this.Autor} {this.fechaCreacion} ");
+            {this.ID} - {this.Titulo}
+            {this.ContenidoPost}
+            Creado por: {this.Autor} {this.FechaCreacion} ");
         }
     }
 }
