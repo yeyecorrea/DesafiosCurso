@@ -44,6 +44,7 @@ namespace Desafio4
                 relog = new Timer(Reproduccion, null, 0, 1000);
             }
         }
+        
         public void Stop()
         {
             if (seReproduce)
@@ -67,8 +68,6 @@ namespace Desafio4
             {
                 Stop();
             }
-
         }
-
     }
 }
