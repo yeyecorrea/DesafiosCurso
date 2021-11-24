@@ -88,4 +88,25 @@ namespace RepasoCurso
 
         }
     }
+
+    // INTERFACES
+
+    // las interfaces son un contrato para una clase
+    // que se le obliga a tener ciertos propiedades y metodos
+    public interface IName
+    {
+        // metodo vacio
+        void MostrarAlgo();
+        // metodo que retorna un string
+        string MostrarTexto();
+    }
+
+    // CLASE QUE IMPLEMENTA UNA INTERFAZ
+    class ImplementacionInterfaz : IName
+    {
+        // metodos que se implementaron en la interfaz
+        public void MostrarAlgo(){}
+
+        public MostrarTexto(){return null;}
+    }
 }
